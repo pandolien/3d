@@ -1,0 +1,11 @@
+1. sudo apt-get install python3.8-dev
+2. sudo apt-get install python3.8-Numpy
+3. sudo apt-get install python3-matplotlib
+4. make your project directory
+-> project
+	|--CMakeLists.txt
+	|--build	#directory
+	|--include	#directory
+	|--src		#derectory
+5.cp matplotlibcpp.h (in your projectfile)
+6.write CMakeLists.txt with refernce to CMakefile
